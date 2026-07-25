@@ -12,7 +12,7 @@ Apasionado por el desarrollo móvil nativo en Android, la arquitectura de softwa
 * **Ver código:** [github.com/aaronpc855/greentaste](https://github.com/aaronpc855/greentaste)
 
 #### 2. 🍔 El Burgués (Android Native)
-* **Descripción:** Aplicación móvil para la gestión e interacción con el menú y pedidos de una hamburguesería artesanal.
+* **Descripción:** Sitio web  diseñado para la gestión y presentación del menú digital de una hamburguesería. Permite a los usuarios explorar la carta de productos, seleccionar pedidos y visualizar una interfaz gastronómica atractiva e interactiva.
 * **Ver código:** [github.com/72623386-droid/EL-Burgu-s2026](https://github.com/72623386-droid/EL-Burgu-s2026)
 
 ---
@@ -20,9 +20,9 @@ Apasionado por el desarrollo móvil nativo en Android, la arquitectura de softwa
 ### 🛠️ Tecnologías y Herramientas
 * **Lenguajes:** Kotlin, Java.
 * **Android Development:** Jetpack Compose, MVVM, Retrofit / REST APIs, Android SDK.
-* **Herramientas & Control de Versiones:** Android Studio, Git, GitHub.
+* **Herramientas & Control de Versiones:** Android Studio, Git, GitHub, Visual Studio Code. 
 
 ---
 
-📫 **Contacto:**
+📫 **Contacto:** +51 944856229 Perú
 * **GitHub:** [github.com/aaronpc855](https://github.com/aaronpc855)
