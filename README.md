@@ -1,5 +1,5 @@
 # ¡Hola! Soy Aaron Pereyra 👋
-### Desarrollador de Software & Bachiller en Arquitectura
+### Desarrollador de Software 
 
 Apasionado por el desarrollo móvil nativo en Android, la arquitectura de software y el diseño de experiencias de usuario funcionales.
 
