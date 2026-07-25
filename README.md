@@ -7,11 +7,11 @@ Apasionado por el desarrollo móvil nativo en Android, la arquitectura de softwa
 
 ### 🚀 Proyectos Destacados
 
-#### 1. 🟢 GreenTaste (Android Native)
+#### 1. 🟢 GreenTaste (App)
 * **Descripción:** Aplicación Android nativa orientada a la alimentación saludable. Desarrollada con arquitectura MVVM, Jetpack Compose y consumo de API REST.
 * **Ver código:** [github.com/aaronpc855/greentaste](https://github.com/aaronpc855/greentaste)
 
-#### 2. 🍔 El Burgués (Android Native)
+#### 2. 🍔 El Burgués (Web Site)
 * **Descripción:** Sitio web  diseñado para la gestión y presentación del menú digital de una hamburguesería. Permite a los usuarios explorar la carta de productos, seleccionar pedidos y visualizar una interfaz gastronómica atractiva e interactiva.
 * **Ver código:** [github.com/72623386-droid/EL-Burgu-s2026](https://github.com/72623386-droid/EL-Burgu-s2026)
 * **Ver sitio: ** [https://venerable-fox-17bd37.netlify.app/] 
