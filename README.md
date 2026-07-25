@@ -14,6 +14,7 @@ Apasionado por el desarrollo móvil nativo en Android, la arquitectura de softwa
 #### 2. 🍔 El Burgués (Android Native)
 * **Descripción:** Sitio web  diseñado para la gestión y presentación del menú digital de una hamburguesería. Permite a los usuarios explorar la carta de productos, seleccionar pedidos y visualizar una interfaz gastronómica atractiva e interactiva.
 * **Ver código:** [github.com/72623386-droid/EL-Burgu-s2026](https://github.com/72623386-droid/EL-Burgu-s2026)
+* **Ver sitio: ** [https://venerable-fox-17bd37.netlify.app/] 
 
 ---
 
