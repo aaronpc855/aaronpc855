@@ -11,7 +11,7 @@ Apasionado por el desarrollo móvil nativo en Android, la arquitectura de softwa
 * **Descripción:** Aplicación Android nativa orientada a la alimentación saludable. Desarrollada con arquitectura MVVM, Jetpack Compose y consumo de API REST.
 * **Ver código:** [github.com/aaronpc855/greentaste](https://github.com/aaronpc855/greentaste)
 
-2. 📐 **TerraNova (App Mobile)**
+#### 2. 📐 **TerraNova (App Mobile)**
    * **Descripción:** Aplicación Android nativa desarrollada para la cotización y tasación de terrenos. Permite calcular de manera precisa áreas ($m^2$), perímetros y montos totales en función del precio por metro cuadrado, facilitando la valorización predial.
    * **Ver código:** [github.com/aaronpc855/TerraNova](https://github.com/aaronpc855/TerraNova)
 
